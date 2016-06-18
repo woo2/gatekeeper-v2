@@ -1,6 +1,6 @@
 #Notes
 ##Hardware
-####SAM4E16E
+###SAM4E16E
 * [SAM4E Xplained-Pro User Guide](http://www.atmel.com/Images/Atmel-42216-SAM4E-Xplained-Pro_User-Guide.pdf)
 * [SAM4E16 Series Datasheet](http://www.atmel.com/Images/Atmel-42216-SAM4E-Xplained-Pro_User-Guide.pdf)
 
@@ -16,10 +16,10 @@
 
 
 ##Software
-####JSON Parsing
+###JSON Parsing
 * [JSMN-bare metal JSON parser](https://github.com/zserge/jsmn)
 
-####Net Drivers
+###Net Drivers
 * [oryx-embedded netowrking library](http://www.oryx-embedded.com/doc/http__server_8c.html)
 
 ### General C Questions and Answers
