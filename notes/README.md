@@ -1,6 +1,5 @@
 #Notes
 ##Hardware
-###SAM4E
 ####SAM4E16E
 * [SAM4E Xplained-Pro User Guide](http://www.atmel.com/Images/Atmel-42216-SAM4E-Xplained-Pro_User-Guide.pdf)
 * [SAM4E16 Series Datasheet](http://www.atmel.com/Images/Atmel-42216-SAM4E-Xplained-Pro_User-Guide.pdf)
@@ -17,7 +16,6 @@
 
 
 ##Software
-###Subsystems
 ####JSON Parsing
 * [JSMN-bare metal JSON parser](https://github.com/zserge/jsmn)
 
