@@ -2,7 +2,7 @@
 ##Hardware
 ###SAM4E16E
 * [SAM4E Xplained-Pro User Guide](http://www.atmel.com/Images/Atmel-42216-SAM4E-Xplained-Pro_User-Guide.pdf)
-* [SAM4E16 Series Datasheet](http://www.atmel.com/Images/Atmel-42216-SAM4E-Xplained-Pro_User-Guide.pdf)
+* [SAM4E16 Series Datasheet](http://www.atmel.com/images/atmel-11157-32-bit-cortex-m4-microcontroller-sam4e16-sam4e8_datasheet.pdf)
 
 ###POE
 
